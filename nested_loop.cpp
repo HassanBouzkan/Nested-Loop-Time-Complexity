@@ -13,8 +13,8 @@ int main() {
             }
         }
     }
-    
-    std::cout << "s = " << s << std::endl;
+
+    std::cout << "x = " << x << std::endl;
     std::cout << "s = " << s << std::endl;
 
     return 0;
